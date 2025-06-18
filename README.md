@@ -1,6 +1,3 @@
-# student-management-system
-This is a basic command-line Python program for managing student records.
-
 # Student Management System 🧑‍🎓
 
 A simple command-line Python program to manage student records using a dictionary. This project allows you to add, update, delete, and view student grades.
